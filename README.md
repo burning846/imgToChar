@@ -19,7 +19,7 @@ or
 python img2char.py --input input.png --output output.txt --width 100 --height 50
 ```
 
-**PS: For good results, width twice the height is recommended **
+__PS: For good results, width twice the height is recommended.__
 
 ### result
 
